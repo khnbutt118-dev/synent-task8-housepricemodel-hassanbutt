@@ -1,0 +1,4 @@
+model,RMSE,MAE,R2,CV_R2_train,Within_20pct_accuracy_%
+Linear Regression,1339904.16,964971.86,0.645,0.631,55.0
+Random Forest,1426911.93,1049121.86,0.597,0.592,53.2
+Decision Tree,1634614.61,1229840.7,0.471,0.541,46.8
